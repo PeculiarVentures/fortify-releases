@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/PeculiarVentures/fortify-releases/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
-  <a href="https://github.com/PeculiarVentures/fortify-releases/releases"><img src="https://img.shields.io/github/v/release/PeculiarVentures/fortify.svg" alt="github release version"></a>
+  <a href="https://github.com/PeculiarVentures/fortify-releases/releases"><img src="https://img.shields.io/github/v/release/PeculiarVentures/fortify-releases.svg" alt="github release version"></a>
   <a href="https://github.com/PeculiarVentures/fortify-releases/releases"><img src="https://img.shields.io/github/downloads/PeculiarVentures/fortify-releases/total.svg" alt="github release downloads"></a>
 </p>
 
